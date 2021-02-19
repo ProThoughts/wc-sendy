@@ -1,4 +1,6 @@
 # wc-sendy - WordPress Plugin
+https://wordpress.org/plugins/wc-sendy/
+
 Automatically adds WooCommerce Customers name and email to Sendy List after the order status is marked completed.
 
 Here are a few ways this plugin can help you quickly build your email list, connect with your audience, and accelerate the growth of your business:
